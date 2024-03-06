@@ -1,3 +1,4 @@
+/*[DEPRECATED]
 using UnityEngine;
 using UnityEditor;
 
@@ -12,3 +13,4 @@ namespace PHATASS.SpriteRigging.Editors
 	{
 	}
 }
+*/

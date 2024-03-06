@@ -1,3 +1,4 @@
+/*[DEPRECATED]
 using TailElementJointSmoothFollow = PHATASS.TailSystem.TailElementJointSmoothFollow;
 
 namespace PHATASS.SpriteRigging.Inspectors
@@ -8,3 +9,4 @@ namespace PHATASS.SpriteRigging.Inspectors
 		public TailElementJointSmoothFollow defaultTailElementController;	//default tail element controller
 	}
 }
+*/

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿/*[DEPRECATED]
+using UnityEngine;
 
 namespace PHATASS.SpriteRigging.Inspectors
 {
@@ -11,3 +12,4 @@ namespace PHATASS.SpriteRigging.Inspectors
 		ConfigurableJoint defaultChainJoint {get;}
 	}
 }
+*/

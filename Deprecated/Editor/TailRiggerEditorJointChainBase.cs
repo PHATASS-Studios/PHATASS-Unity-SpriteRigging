@@ -1,3 +1,4 @@
+/*[DEPRECATED]
 using UnityEngine;
 
 using static PHATASS.Utils.Extensions.TransformExtensions;
@@ -53,3 +54,4 @@ namespace PHATASS.SpriteRigging.Editors
 	//ENDOF virtual method overrides
 	}
 }
+*/

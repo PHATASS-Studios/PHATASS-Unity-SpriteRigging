@@ -1,3 +1,4 @@
+/*[DEPRECATED]
 using UnityEngine;
 
 using IRigidbodyRiggerInspector = PHATASS.SpriteRigging.Inspectors.IRigidbodyRiggerInspector;
@@ -55,3 +56,4 @@ namespace PHATASS.SpriteRigging.Editors
 	//ENDOF abstract method declaration
 	}
 }
+*/
